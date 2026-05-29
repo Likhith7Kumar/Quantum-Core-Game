@@ -1,0 +1,1 @@
+Quantum Core: Singularity Escape is an interactive Python arcade game built with the Stanford graphics canvas. Players pilot a luminous cursor core through a dynamic particle matrix that physically bends and warps to mouse vectors in real time. Avoid hostile pulsing grid nodes, harvest golden energy orbs, and survive a fluid, 60 FPS void.
